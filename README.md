@@ -1,5 +1,5 @@
 # kd-tree-C-language
-C implementation of kd tree processing range search queries for points distributed in x-y plane
+C implementation of kd tree processing range search queries for points distributed in the x-y plane.
 
 Related to AOJ-DSL_2_C
 http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DSL_2_C
